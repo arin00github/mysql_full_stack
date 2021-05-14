@@ -35,6 +35,17 @@ router.post('/add', (req, res) => {
     })
 })
 
+router.delete('/delete', (req, res) => {
+    users.destroy({where: {user_id: req.body.user_id}})
+    .then((result) => {
+       console.log('')
+       return res.status(200).json({message: '데이터가 삭제되었습니다.'})      
+    }).catch(err => {
+        console.log(err);
+        return res.status(400).json({message: '데이터 삭제에 실패하였습니다'})
+    }) 
+})
+
 
 
 module.exports = router;
