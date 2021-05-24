@@ -7,7 +7,11 @@ const sequelize = require('./models').sequelize;
 
 const app = express();
 
-const dataRoute = require('./server/route/dataRoute')
+const usersRoute = require('./server/route/usersRoute');
+const reviewRoute = require('./server/route/reviewRoute');
+const campRoute = require('./server/route/campRoute');
+
+const authRoute = require('./server/route/authRoute');
 
 app.use(express.json())
 app.use(cors())
@@ -21,10 +25,12 @@ const {users, Sequelize:{Op}} = require('./models')
 
 
 
-app.use('/api/data' , dataRoute)
+app.use('/api/users', usersRoute);
+app.use('/api/review', reviewRoute);
+app.use('/api/camp', campRoute);
 
 
-
+app.use('/api/auth', authRoute);
 
 
 
