@@ -23,4 +23,19 @@ router.post('/add', (req, res) => {
     })
 })
 
+
+router.get('/read', async(req, res) => {
+
+    try{
+        const results = await bootcamp_lists.findAll();
+        if(!results) throw Error("No Data");
+        res.status(200).json(results)
+    }catch(err){
+        console.log('error',err)
+        res.status(400).json()
+    }
+    
+})
+
+
 module.exports = router;
