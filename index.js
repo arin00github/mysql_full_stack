@@ -12,11 +12,18 @@ const reviewRoute = require('./server/route/reviewRoute');
 const campRoute = require('./server/route/campRoute');
 
 const authRoute = require('./server/route/authRoute');
+const corsOptions = {
+    
+    origin: "http://localhost:3700",
+    credentials: true
+  }
+
 
 app.use(express.json())
-app.use(cors())
-app.use(bodyParser.urlencoded({extended: false}));
-app.use(bodyParser.json())
+app.use(express.urlencoded())
+app.use(cors(corsOptions))
+// app.use(bodyParser.urlencoded({extended: false}));
+// app.use(bodyParser.json())
 
 
 sequelize.sync();

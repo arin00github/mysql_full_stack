@@ -11,14 +11,14 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      users.hasMany(models.reivews, {
+      this.hasMany(models.reviews, {
         foreignKey: 'users_id',
         sourceKey: 'id',
         onUpdate: 'cascade',
         onDelete:'set null'
       })
 
-      users.belongsToMany(models.bootcamp_lists, {
+      this.belongsToMany(models.bootcamp_lists, {
         through: 'users_bootcamp',
         targetKey: 'id',
         foreignKey: 'users_id',
@@ -40,7 +40,7 @@ module.exports = (sequelize, DataTypes) => {
     sequelize,
     modelName: 'users',
     timestamps: true,
-    charset: 'utf-8'
+    charset: 'utf8'
   });
   return users;
 };

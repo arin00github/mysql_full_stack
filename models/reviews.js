@@ -11,10 +11,17 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      reviews.belongsTo(models.users, { foreignKey: 'users_id',targetKey:'id',onUpdate: 'cascade', onDelete: 'set null'})
+      this.belongsTo(models.users, { 
+        foreignKey: 'users_id',
+        as: 'users_name',
+        targetKey:'id',
+        onUpdate: 'cascade',
+        onDelete: 'set null'
+      })
 
-      reviews.belongsTo(models.bootcamp_lists, {
+      this.belongsTo(models.bootcamp_lists, {
         foreignKey: 'bootcamp_id',
+        as: 'camp_name',
         targetKey: 'id',
         onUpdate: 'cascade',
         onDelete: 'set null'
@@ -28,7 +35,7 @@ module.exports = (sequelize, DataTypes) => {
     sequelize,
     modelName: 'reviews',
     timestamps: true,
-    charset: 'utf-8'
+    charset: 'utf8'
   });
   return reviews;
 };

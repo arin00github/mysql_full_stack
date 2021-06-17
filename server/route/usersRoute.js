@@ -44,13 +44,14 @@ router.get('/read', async(req, res) => {
  * /api/users/add
  */
 router.post('/add', (req, res) => {
-    console.log("req.body",req.body);
-    console.log("req.body.user",req.body.user);
+    //console.log("req.body",Object.keys(req.body));
+    const getData = req.body;
+    console.log("req.body", req.body);
     users.create({
-        name: req.body.name,
-        email: req.body.email,
-        role: req.body.role,
-        active: req.body.active
+        name: getData.name,
+        email: getData.email,
+        role: getData.role,
+        active: getData.active
     }).then((result)=> {
         console.log('Data create successfully!!')
         return res.status(200).json({message: '데이터가 새로 저장되었습니다.'})
