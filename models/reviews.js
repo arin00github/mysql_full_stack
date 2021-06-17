@@ -10,31 +10,25 @@ module.exports = (sequelize, DataTypes) => {
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      console.log(models)
       // define association here
-      this.belongsTo(models.users, {
-        foreignKey: 'users_id', //자기 모델에 있는 필드임
-        as: 'users',
-        targetKey:'id', //users의 id임
-        onUpdate: 'cascade',
-        onDelete: 'set null',
-      })
-      this.belongsTo(models.bootcamp_lists, {
+      reviews.belongsTo(models.users, { foreignKey: 'users_id',targetKey:'id',onUpdate: 'cascade', onDelete: 'set null'})
+
+      reviews.belongsTo(models.bootcamp_lists, {
         foreignKey: 'bootcamp_id',
-        as: 'bootcamp_lists',
-        targetKey: 'id', //users의 id임
+        targetKey: 'id',
         onUpdate: 'cascade',
-        onDelete: 'set null',
+        onDelete: 'set null'
       })
+
     }
   };
   reviews.init({
-    users_id: DataTypes.INTEGER,
-    bootcamp_id: DataTypes.INTEGER,
-    content: DataTypes.STRING,
+    content: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'reviews',
+    timestamps: true,
+    charset: 'utf-8'
   });
   return reviews;
 };

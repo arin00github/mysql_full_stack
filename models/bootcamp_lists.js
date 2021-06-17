@@ -11,29 +11,31 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      this.hasMany(models.reviews, {
-        foreignKey: 'bootcamp_id', //review의 bootcamp_id
+      bootcamp_lists.hasMany(models.reviews, {
+        foreignKey: 'bootcamp_id',
         sourceKey: 'id',
-        onUpdate:'cascade',
-        onDelete:'set null'
+        onUpdate: 'cascade',
+        onDelete: 'set null'
       })
-      this.belongsToMany(models.users, {
+
+      bootcamp_lists.belongsToMany(models.users, {
         through: 'users_bootcamp',
         targetKey: 'id',
-        foreignKey: 'bootcamp_id', //자기 필드 값에서 가져옴
-        onUpdate:'cascade',
-        onDelete:'cascade'
-
+        foreignKey: 'bootcamp_id',
+        onUpdate: 'cascade',
+        onDelete: 'cascade'
       })
     }
   };
   bootcamp_lists.init({
     title: DataTypes.STRING,
     personCount: DataTypes.INTEGER,
-    price : DataTypes.INTEGER
+    price: DataTypes.INTEGER
   }, {
     sequelize,
     modelName: 'bootcamp_lists',
+    timestamps: true,
+    charset: 'utf-8'
   });
   return bootcamp_lists;
 };

@@ -32,11 +32,28 @@ module.exports = {
     },
     { timestamp: true, underscored: false }
     ).then(function(){
-      queryInterface.addColumn('users_bootcamp', 'users_id', {
-        type: Sequelize.INTEGER,
-        allowNull: true,
-        onDelete: 'CASCADE',
-        references:{model: 'b',key: 'id'}
+      queryInterface.createTable('users_bootcamp', {
+        id: {
+          allowNull: false,
+          autoIncrement: true,
+          primaryKey: true,
+          type: Sequelize.INTEGER
+        },
+        reatedAt: {
+          type: Sequelize.DATE
+        },
+        updatedAt: {
+          type: Sequelize.DATE
+        },
+        users_id:{
+          type: Sequelize.INTEGER,
+          allowNull: true,
+          onDelete: 'cascade',
+          onUpdate: 'cascade',
+          references:{model: 'users',key: 'id'}
+        }
+      },{
+        timestamp: true, underscored: false
       })}
     )},
   down: async (queryInterface, Sequelize) => {

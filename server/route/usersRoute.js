@@ -45,6 +45,7 @@ router.get('/read', async(req, res) => {
  */
 router.post('/add', (req, res) => {
     console.log("req.body",req.body);
+    console.log("req.body.user",req.body.user);
     users.create({
         name: req.body.name,
         email: req.body.email,
@@ -61,7 +62,7 @@ router.post('/add', (req, res) => {
 
 
 router.delete('/delete', (req, res) => {
-    users.destroy({where: {user_id: req.body.user_id}})
+    users.destroy({where: {name: req.body.name}})
     .then((result) => {
        console.log('')
        return res.status(200).json({message: '데이터가 삭제되었습니다.'})      
