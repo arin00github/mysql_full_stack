@@ -1,6 +1,6 @@
 const express = require('express');
 
-const { users, bootcamp_lists, reviews, Sequelize:{Op} } = require('../../models')
+const { users, bootcamp_lists, users_bootcamp, reviews, Sequelize:{Op}, sequelize } = require('../../models')
 
 const router = express.Router();
 
@@ -24,10 +24,13 @@ router.post('/add', (req, res) => {
 })
 
 
-router.get('/read', async(req, res) => {
+router.get('/findcamp', async(req, res) => {
+    const userId = req.body
 
     try{
-        const results = await bootcamp_lists.findAll();
+        const results = await users_bootcamp.findAll({
+            where: {users_id: userId}
+        });
         if(!results) throw Error("No Data");
         res.status(200).json(results)
     }catch(err){
