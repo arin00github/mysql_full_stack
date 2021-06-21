@@ -23,18 +23,22 @@ router.get('/download', async(req, res) => {
     try{
         conn.query(order, function(err, rows, fields){
             if(err) console.log('query is not excuted.' + err);
-            console.log("rows",rows);
-            console.log("field", fields)
-            res.send(rows)
+            //console.log("rows",rows);
+           const result = rows[0].geojson
+           const convert = JSON.parse(result)
+            //console.log(rows[0].geojson);
+            //const sendData = JSON.parse(rows);
+            console.log("server", typeof result)
+            console.log("server convert", convert.name);
+           res.status(200).json(rows);
+            
         })
-        console.log('sucess sending svgmap')
-        res.status(200).json();
+        
        
     }catch(err){
         console.log('error',err)
         res.status(400).json()
     }
-    return false;
 })
 
 module.exports = router;

@@ -30,6 +30,7 @@ router.get('/read', async(req, res) => {
 
     try{
         const results = await users.findAll();
+        console.log(results);
         if(!results) throw Error("No Data");
         res.status(200).json(results)
     }catch(err){

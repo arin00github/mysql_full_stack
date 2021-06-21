@@ -17,7 +17,7 @@ module.exports = (sequelize, DataTypes) => {
   svgmap.init({
     name: DataTypes.STRING,
     geojson: {
-      type: Sequelize.TEXT('long'),
+      type: DataTypes.TEXT('long'),
       get: function (){
         return JSON.parse(this.getDataValue('value'));
       },
