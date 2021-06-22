@@ -1,6 +1,10 @@
 {
   "type": "FeatureCollection",
-  "name": "SVG_Seoul_11",
+  "name": "Seoul",
+  "geoinfo": {
+    "center": [126.9567, 37.5607],
+    "scale": 92000
+  },
   "crs": {
     "type": "name",
     "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }

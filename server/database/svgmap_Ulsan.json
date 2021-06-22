@@ -1,6 +1,10 @@
 {
   "type": "FeatureCollection",
-  "name": "SVG_Ulsan",
+  "name": "Ulsan",
+  "geoinfo": {
+    "center": [129.239, 35.5193],
+    "scale": 68000
+  },
   "crs": {
     "type": "name",
     "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }

@@ -23,123 +23,85 @@ const gyeongsangnam = require('../server/database/svgmap_Gyeongsangnam.json');
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'korea',
-        geojson: JSON.stringify(json)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'nation',
-        geojson: JSON.stringify(map2)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'seoul',
-        geojson: JSON.stringify(seoul)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'busan',
-        geojson: JSON.stringify(busan)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'ulsan',
-        geojson: JSON.stringify(ulsan)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'Daegu',
-        geojson: JSON.stringify(daegu)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'chungCheongBuk',
-        geojson: JSON.stringify(chungCheongBuk)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'chungCheongNam',
-        geojson: JSON.stringify(chungCheongNam)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'Sejong',
-        geojson: JSON.stringify(Sejong)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'daejeon',
-        geojson: JSON.stringify(daejeon)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'Jeju',
-        geojson: JSON.stringify(Jeju)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'gyeonggi',
-        geojson: JSON.stringify(gyeonggi)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'incheon',
-        geojson: JSON.stringify(incheon)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'gwangju',
-        geojson: JSON.stringify(gwangju)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'gangwon',
-        geojson: JSON.stringify(gangwon)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'Jeollabuk',
-        geojson: JSON.stringify(Jeollabuk)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'Jeollanam',
-        geojson: JSON.stringify(Jeollanam)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'gyeongsangbuk',
-        geojson: JSON.stringify(gyeongsangbuk)
-      }
-    ])
-    await queryInterface.bulkInsert('svgmap',[
-      {
-        name: 'gyeongsangnam',
-        geojson: JSON.stringify(gyeongsangnam)
-      }
-    ])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'korea',
+      geojson: JSON.stringify(json)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'nation',
+      geojson: JSON.stringify(map2)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Seoul',
+      geojson: JSON.stringify(seoul)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Busan',
+      geojson: JSON.stringify(busan)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Ulsan',
+      geojson: JSON.stringify(ulsan)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Daegu',
+      geojson: JSON.stringify(daegu)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Chungcheongbuk-do',
+      geojson: JSON.stringify(chungCheongBuk)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Chungcheongnam-do',
+      geojson: JSON.stringify(chungCheongNam)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Sejong-si',
+      geojson: JSON.stringify(Sejong)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Daejeon',
+      geojson: JSON.stringify(daejeon)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Jeju-do',
+      geojson: JSON.stringify(Jeju)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Gyeonggi-do',
+      geojson: JSON.stringify(gyeonggi)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Incheon',
+      geojson: JSON.stringify(incheon)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Gwangju',
+      geojson: JSON.stringify(gwangju)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Gangwon-do',
+      geojson: JSON.stringify(gangwon)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Jeollabuk-do',
+      geojson: JSON.stringify(Jeollabuk)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Jeollanam-do',
+      geojson: JSON.stringify(Jeollanam)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Gyeongsangbuk-do',
+      geojson: JSON.stringify(gyeongsangbuk)
+    }])
+    await queryInterface.bulkInsert('svgmap', [{
+      name: 'Gyeongsangnam-do',
+      geojson: JSON.stringify(gyeongsangnam)
+    }])
   },
 
   down: async (queryInterface, Sequelize) => {
-   
+
   }
 };

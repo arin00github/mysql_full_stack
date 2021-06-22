@@ -1,6 +1,10 @@
 {
   "type": "FeatureCollection",
-  "name": "SVG_Seoul_11",
+  "name": "Busan",
+  "geoinfo": {
+    "center": [129.0556, 35.1879],
+    "scale": 70000
+  },
   "crs": {
     "type": "name",
     "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }

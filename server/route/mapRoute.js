@@ -1,6 +1,13 @@
 const express = require('express');
 
-const { users, bootcamp_lists, reviews, Sequelize:{Op} } = require('../../models')
+const {
+    users,
+    bootcamp_lists,
+    reviews,
+    Sequelize: {
+        Op
+    }
+} = require('../../models')
 
 const router = express.Router();
 
@@ -16,27 +23,53 @@ db_config.connect(conn);
  */
 
 
-router.get('/download', async(req, res) => {
+router.get('/download', async (req, res) => {
 
     const order = 'SELECT geojson FROM svgmap'
 
-    try{
-        conn.query(order, function(err, rows, fields){
-            if(err) console.log('query is not excuted.' + err);
+    try {
+        conn.query(order, function (err, rows, fields) {
+            if (err) console.log('query is not excuted.' + err);
             //console.log("rows",rows);
-           const result = rows[0].geojson
-           const convert = JSON.parse(result)
-            //console.log(rows[0].geojson);
+            const result = rows[0].geojson
+            const convert = JSON.parse(result)
+           // console.log(rows[0].geojson);
             //const sendData = JSON.parse(rows);
             console.log("server", typeof result)
             console.log("server convert", convert.name);
-           res.status(200).json(rows);
-            
+            res.status(200).json(rows);
+
         })
-        
-       
-    }catch(err){
-        console.log('error',err)
+
+
+    } catch (err) {
+        console.log('error', err)
+        res.status(400).json()
+    }
+})
+
+router.post('/download-sm', async (req, res) => {
+    console.log("req.body", req.body.name);
+
+    const order = `SELECT geojson FROM svgmap where name = '${req.body.name}' `
+
+    try {
+        conn.query(order, function (err, rows, fields) {
+            if (err) console.log('query is not excuted.' + err);
+            // console.log("rows", typeof rows);
+            // const result = rows[0].geojson
+            // const convert = JSON.parse(result)
+            // console.log(rows[0].geojson);
+            //const sendData = JSON.parse(rows);
+            //console.log("server", typeof result)
+            //console.log("server convert", convert.name);
+            res.status(200).json(rows);
+
+        })
+
+
+    } catch (err) {
+        console.log('error', err)
         res.status(400).json()
     }
 })

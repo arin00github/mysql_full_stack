@@ -1,6 +1,10 @@
 {
   "type": "FeatureCollection",
-  "name": "SVG_Sejong",
+  "name": "Sejong-si",
+  "geoinfo": {
+    "center": [127.2512, 36.5697],
+    "scale": 78000
+  },
   "crs": {
     "type": "name",
     "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
