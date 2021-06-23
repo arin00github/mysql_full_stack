@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32010",
+        "SIG_CD": "42110",
         "SIG_ENG_NM": "Chuncheon-si",
         "SIG_KOR_NM": "춘천시"
       },
@@ -782,7 +782,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32020",
+        "SIG_CD": "42130",
         "SIG_ENG_NM": "Wonju-si",
         "SIG_KOR_NM": "원주시"
       },
@@ -1338,7 +1338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32030",
+        "SIG_CD": "42150",
         "SIG_ENG_NM": "Gangneung-si",
         "SIG_KOR_NM": "강릉시"
       },
@@ -1956,7 +1956,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32040",
+        "SIG_CD": "42170",
         "SIG_ENG_NM": "Donghae-si",
         "SIG_KOR_NM": "동해시"
       },
@@ -2086,7 +2086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32050",
+        "SIG_CD": "42190",
         "SIG_ENG_NM": "Taebaek-si",
         "SIG_KOR_NM": "태백시"
       },
@@ -2360,7 +2360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32060",
+        "SIG_CD": "42210",
         "SIG_ENG_NM": "Sokcho-si",
         "SIG_KOR_NM": "속초시"
       },
@@ -2489,7 +2489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32070",
+        "SIG_CD": "42230",
         "SIG_ENG_NM": "Samcheok-si",
         "SIG_KOR_NM": "삼척시"
       },
@@ -2802,7 +2802,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32310",
+        "SIG_CD": "42720",
         "SIG_ENG_NM": "Hongcheon-gun",
         "SIG_KOR_NM": "홍천군"
       },
@@ -3788,7 +3788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32320",
+        "SIG_CD": "42730",
         "SIG_ENG_NM": "Hoengseong-gun",
         "SIG_KOR_NM": "횡성군"
       },
@@ -4504,7 +4504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32330",
+        "SIG_CD": "42750",
         "SIG_ENG_NM": "Yeongwol-gun",
         "SIG_KOR_NM": "영월군"
       },
@@ -6486,7 +6486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32340",
+        "SIG_CD": "42760",
         "SIG_ENG_NM": "Pyeongchang-gun",
         "SIG_KOR_NM": "평창군"
       },
@@ -7500,7 +7500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32350",
+        "SIG_CD": "42770",
         "SIG_ENG_NM": "Jeongseon-gun",
         "SIG_KOR_NM": "정선군"
       },
@@ -8387,7 +8387,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32360",
+        "SIG_CD": "42780",
         "SIG_ENG_NM": "Cheorwon-gun",
         "SIG_KOR_NM": "철원군"
       },
@@ -8994,7 +8994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32370",
+        "SIG_CD": "42790",
         "SIG_ENG_NM": "Hwacheon-gun",
         "SIG_KOR_NM": "화천군"
       },
@@ -9479,7 +9479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32380",
+        "SIG_CD": "42800",
         "SIG_ENG_NM": "Yanggu-gun",
         "SIG_KOR_NM": "양구군"
       },
@@ -9871,7 +9871,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32390",
+        "SIG_CD": "42810",
         "SIG_ENG_NM": "Inje-gun",
         "SIG_KOR_NM": "인제군"
       },
@@ -10703,7 +10703,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32400",
+        "SIG_CD": "42820",
         "SIG_ENG_NM": "Goseong-gun",
         "SIG_KOR_NM": "고성군"
       },
@@ -10976,7 +10976,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "32410",
+        "SIG_CD": "42830",
         "SIG_ENG_NM": "Yangyang-gun",
         "SIG_KOR_NM": "양양군"
       },

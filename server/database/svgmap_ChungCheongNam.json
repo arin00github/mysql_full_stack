@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34011",
+        "SIG_CD": "44131",
         "SIG_ENG_NM": "Dongnam-gu, Cheonan-si",
         "SIG_KOR_NM": "천안 동남구"
       },
@@ -519,7 +519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34012",
+        "SIG_CD": "44133",
         "SIG_ENG_NM": "Seobuk-gu, Cheonan-si",
         "SIG_KOR_NM": "천안시 서북구"
       },
@@ -868,7 +868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34020",
+        "SIG_CD": "44150",
         "SIG_ENG_NM": "Gongju-si",
         "SIG_KOR_NM": "공주시"
       },
@@ -1529,7 +1529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34030",
+        "SIG_CD": "44180",
         "SIG_ENG_NM": "Boryeong-si",
         "SIG_KOR_NM": "보령시"
       },
@@ -1715,7 +1715,7 @@
       "properties": {
         "SIG_CD": "44200",
         "SIG_ENG_NM": "Asan-si",
-        "SIG_KOR_NM": "�ƻ��"
+        "SIG_KOR_NM": "아산시"
       },
       "geometry": {
         "type": "Polygon",
@@ -2143,9 +2143,9 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34040",
+        "SIG_CD": "44210",
         "SIG_ENG_NM": "Seosan-si",
-        "SIG_KOR_NM": "아산시"
+        "SIG_KOR_NM": "서산시"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2488,9 +2488,9 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34050",
+        "SIG_CD": "44230",
         "SIG_ENG_NM": "Nonsan-si",
-        "SIG_KOR_NM": "서산시"
+        "SIG_KOR_NM": "논산시"
       },
       "geometry": {
         "type": "Polygon",
@@ -4158,7 +4158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34070",
+        "SIG_CD": "44250",
         "SIG_ENG_NM": "Gyeryong-si",
         "SIG_KOR_NM": "계룡시"
       },
@@ -4545,7 +4545,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34080",
+        "SIG_CD": "44270",
         "SIG_ENG_NM": "Dangjin-si",
         "SIG_KOR_NM": "당진시"
       },
@@ -4842,7 +4842,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34310",
+        "SIG_CD": "44710",
         "SIG_ENG_NM": "Geumsan-gun",
         "SIG_KOR_NM": "금산군"
       },
@@ -5853,7 +5853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34330",
+        "SIG_CD": "44760",
         "SIG_ENG_NM": "Buyeo-gun",
         "SIG_KOR_NM": "부여군"
       },
@@ -7223,7 +7223,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34340",
+        "SIG_CD": "44770",
         "SIG_ENG_NM": "Seocheon-gun",
         "SIG_KOR_NM": "서천군"
       },
@@ -7361,7 +7361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34350",
+        "SIG_CD": "44790",
         "SIG_ENG_NM": "Cheongyang-gun",
         "SIG_KOR_NM": "청양군"
       },
@@ -8046,7 +8046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34360",
+        "SIG_CD": "44800",
         "SIG_ENG_NM": "Hongseong-gun",
         "SIG_KOR_NM": "홍성군"
       },
@@ -8583,7 +8583,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34370",
+        "SIG_CD": "44810",
         "SIG_ENG_NM": "Yesan-gun",
         "SIG_KOR_NM": "예산군"
       },
@@ -9455,7 +9455,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "34380",
+        "SIG_CD": "44825",
         "SIG_ENG_NM": "Taean-gun",
         "SIG_KOR_NM": "태안군"
       },

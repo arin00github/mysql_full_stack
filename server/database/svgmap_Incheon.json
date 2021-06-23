@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23010",
+        "SIG_CD": "28110",
         "CATEGORY": "Incheon-si",
         "SIG_ENG_NM": "Jung-gu",
         "SIG_KOR_NM": "중구"
@@ -183,7 +183,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23010",
+        "SIG_CD": "28140",
         "CATEGORY": "Incheon-si",
         "SIG_ENG_NM": "Dong-gu",
         "SIG_KOR_NM": "동구"
@@ -407,7 +407,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23090",
+        "SIG_CD": "28177",
         "CATEGORY": "Incheon-si",
         "SIG_ENG_NM": "Michuhol-gu",
         "SIG_KOR_NM": "미추홀구"
@@ -689,7 +689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23040",
+        "SIG_CD": "28185",
         "SIG_ENG_NM": "Yeonsu-gu",
         "SIG_KOR_NM": "연수구"
       },
@@ -757,7 +757,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23050",
+        "SIG_CD": "28200",
         "SIG_ENG_NM": "Namdong-gu",
         "SIG_KOR_NM": "남동구"
       },
@@ -932,7 +932,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23060",
+        "SIG_CD": "28237",
         "SIG_ENG_NM": "Bupyeong-gu",
         "SIG_KOR_NM": "부평구"
       },
@@ -1078,7 +1078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23070",
+        "SIG_CD": "28245",
         "SIG_ENG_NM": "Gyeyang-gu",
         "SIG_KOR_NM": "계양구"
       },
@@ -1306,7 +1306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23080",
+        "SIG_CD": "28260",
         "SIG_ENG_NM": "Seo-gu",
         "SIG_KOR_NM": "서구"
       },
@@ -1543,7 +1543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23310",
+        "SIG_CD": "28710",
         "SIG_ENG_NM": "Ganghwa-gun",
         "SIG_KOR_NM": "강화군"
       },
@@ -1699,7 +1699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "23320",
+        "SIG_CD": "28720",
         "SIG_ENG_NM": "Ongjin-gun",
         "SIG_KOR_NM": "옹진군"
       },

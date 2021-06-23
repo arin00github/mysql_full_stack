@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38111",
+        "SIG_CD": "48121",
         "SIG_ENG_NM": "Uichang-gu, Changwon-si",
         "SIG_KOR_NM": "창원시 의창구"
       },
@@ -202,7 +202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38112",
+        "SIG_CD": "48123",
         "SIG_ENG_NM": "Seongsan-gu, Changwon-si",
         "SIG_KOR_NM": "창원시 성산구"
       },
@@ -282,7 +282,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38113",
+        "SIG_CD": "48125",
         "SIG_ENG_NM": "Masanhappo-gu, Changwon-si",
         "SIG_KOR_NM": "창원시 마산합포구"
       },
@@ -533,7 +533,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38114",
+        "SIG_CD": "48127",
         "SIG_ENG_NM": "Masanhoewon-gu, Changwon-si",
         "SIG_KOR_NM": "창원시 마산회원구"
       },
@@ -731,7 +731,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38115",
+        "SIG_CD": "48129",
         "SIG_ENG_NM": "Jinhae-gu, Changwon-si",
         "SIG_KOR_NM": "창원시 진해구"
       },
@@ -839,7 +839,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38030",
+        "SIG_CD": "48170",
         "SIG_ENG_NM": "Jinju-si",
         "SIG_KOR_NM": "진주시"
       },
@@ -1515,7 +1515,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38050",
+        "SIG_CD": "48220",
         "SIG_ENG_NM": "Tongyeong-si",
         "SIG_KOR_NM": "통영시"
       },
@@ -1810,7 +1810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38060",
+        "SIG_CD": "48240",
         "SIG_ENG_NM": "Sacheon-si",
         "SIG_KOR_NM": "사천시"
       },
@@ -2255,7 +2255,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38070",
+        "SIG_CD": "48250",
         "SIG_ENG_NM": "Gimhae-si",
         "SIG_KOR_NM": "김해시"
       },
@@ -2803,7 +2803,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38080",
+        "SIG_CD": "48270",
         "SIG_ENG_NM": "Miryang-si",
         "SIG_KOR_NM": "밀양시"
       },
@@ -3367,7 +3367,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38090",
+        "SIG_CD": "48310",
         "SIG_ENG_NM": "Geoje-si",
         "SIG_KOR_NM": "거제시"
       },
@@ -3547,7 +3547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38100",
+        "SIG_CD": "48330",
         "SIG_ENG_NM": "Yangsan-si",
         "SIG_KOR_NM": "양산시"
       },
@@ -4151,7 +4151,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38310",
+        "SIG_CD": "48720",
         "SIG_ENG_NM": "Uiryeong-gun",
         "SIG_KOR_NM": "의령군"
       },
@@ -4545,7 +4545,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38320",
+        "SIG_CD": "48730",
         "SIG_ENG_NM": "Haman-gun",
         "SIG_KOR_NM": "함안군"
       },
@@ -4890,7 +4890,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38330",
+        "SIG_CD": "48740",
         "SIG_ENG_NM": "Changnyeong-gun",
         "SIG_KOR_NM": "창녕군"
       },
@@ -5269,7 +5269,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38340",
+        "SIG_CD": "48820",
         "SIG_ENG_NM": "Goseong-gun",
         "SIG_KOR_NM": "고성군"
       },
@@ -5572,7 +5572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38350",
+        "SIG_CD": "48840",
         "SIG_ENG_NM": "Namhae-gun",
         "SIG_KOR_NM": "남해군"
       },
@@ -5695,7 +5695,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38360",
+        "SIG_CD": "48850",
         "SIG_ENG_NM": "Hadong-gun",
         "SIG_KOR_NM": "하동군"
       },
@@ -5961,7 +5961,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38370",
+        "SIG_CD": "48860",
         "SIG_ENG_NM": "Sancheong-gun",
         "SIG_KOR_NM": "산청군"
       },
@@ -6483,7 +6483,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38380",
+        "SIG_CD": "48870",
         "SIG_ENG_NM": "Hamyang-gun",
         "SIG_KOR_NM": "함양군"
       },
@@ -6993,7 +6993,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38390",
+        "SIG_CD": "48880",
         "SIG_ENG_NM": "Geochang-gun",
         "SIG_KOR_NM": "거창군"
       },
@@ -7792,7 +7792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "38400",
+        "SIG_CD": "48890",
         "SIG_ENG_NM": "Hapcheon-gun",
         "SIG_KOR_NM": "합천군"
       },

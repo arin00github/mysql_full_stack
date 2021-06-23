@@ -1,6 +1,6 @@
 'use strict';
 
-const json = require('../server/map.json');
+const json = require('../server/database/map.json');
 const map2 = require('../server/database/svgmap_nation.json');
 
 const seoul = require('../server/database/svgmap_seoul.json');

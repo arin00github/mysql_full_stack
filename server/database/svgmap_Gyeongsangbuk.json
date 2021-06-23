@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37011",
+        "SIG_CD": "47111",
         "SIG_ENG_NM": "Nam-gu, Pohang-si",
         "SIG_KOR_NM": "포항시 남구"
       },
@@ -355,7 +355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37012",
+        "SIG_CD": "47113",
         "SIG_ENG_NM": "Buk-gu, Pohang-si",
         "SIG_KOR_NM": "포항시 북구"
       },
@@ -842,7 +842,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37020",
+        "SIG_CD": "47130",
         "SIG_ENG_NM": "Gyeongju-si",
         "SIG_KOR_NM": "경주시"
       },
@@ -1820,7 +1820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37030",
+        "SIG_CD": "47150",
         "SIG_ENG_NM": "Gimcheon-si",
         "SIG_KOR_NM": "김천시"
       },
@@ -2797,7 +2797,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37040",
+        "SIG_CD": "47170",
         "SIG_ENG_NM": "Andong-si",
         "SIG_KOR_NM": "안동시"
       },
@@ -3633,7 +3633,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37050",
+        "SIG_CD": "47190",
         "SIG_ENG_NM": "Gumi-si",
         "SIG_KOR_NM": "구미시"
       },
@@ -5025,7 +5025,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37060",
+        "SIG_CD": "47210",
         "SIG_ENG_NM": "Yeongju-si",
         "SIG_KOR_NM": "영주시"
       },
@@ -6744,7 +6744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37070",
+        "SIG_CD": "47230",
         "SIG_ENG_NM": "Yeongcheon-si",
         "SIG_KOR_NM": "영천시"
       },
@@ -7447,7 +7447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37080",
+        "SIG_CD": "47250",
         "SIG_ENG_NM": "Sangju-si",
         "SIG_KOR_NM": "상주시"
       },
@@ -9027,7 +9027,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37090",
+        "SIG_CD": "47280",
         "SIG_ENG_NM": "Mungyeong-si",
         "SIG_KOR_NM": "문경시"
       },
@@ -10873,7 +10873,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37100",
+        "SIG_CD": "47290",
         "SIG_ENG_NM": "Gyeongsan-si",
         "SIG_KOR_NM": "경산시"
       },
@@ -11229,7 +11229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37310",
+        "SIG_CD": "47720",
         "SIG_ENG_NM": "Gunwi-gun",
         "SIG_KOR_NM": "군위군"
       },
@@ -12349,7 +12349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37320",
+        "SIG_CD": "47730",
         "SIG_ENG_NM": "Uiseong-gun",
         "SIG_KOR_NM": "의성군"
       },
@@ -13192,7 +13192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37330",
+        "SIG_CD": "47750",
         "SIG_ENG_NM": "Cheongsong-gun",
         "SIG_KOR_NM": "청송군"
       },
@@ -13584,7 +13584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37340",
+        "SIG_CD": "47760",
         "SIG_ENG_NM": "Yeongyang-gun",
         "SIG_KOR_NM": "양양군"
       },
@@ -14060,7 +14060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37350",
+        "SIG_CD": "47770",
         "SIG_ENG_NM": "Yeongdeok-gun",
         "SIG_KOR_NM": "영덕군"
       },
@@ -14338,7 +14338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37360",
+        "SIG_CD": "47820",
         "SIG_ENG_NM": "Cheongdo-gun",
         "SIG_KOR_NM": "청도군"
       },
@@ -14831,7 +14831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37370",
+        "SIG_CD": "47830",
         "SIG_ENG_NM": "Goryeong-gun",
         "SIG_KOR_NM": "고령군"
       },
@@ -15015,7 +15015,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37380",
+        "SIG_CD": "47840",
         "SIG_ENG_NM": "Seongju-gun",
         "SIG_KOR_NM": "성주군"
       },
@@ -15261,7 +15261,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37390",
+        "SIG_CD": "47850",
         "SIG_ENG_NM": "Chilgok-gun",
         "SIG_KOR_NM": "칠곡군"
       },
@@ -16002,7 +16002,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37400",
+        "SIG_CD": "47900",
         "SIG_ENG_NM": "Yecheon-gun",
         "SIG_KOR_NM": "예천군"
       },
@@ -17303,7 +17303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37410",
+        "SIG_CD": "47920",
         "SIG_ENG_NM": "Bonghwa-gun",
         "SIG_KOR_NM": "봉화군"
       },
@@ -18338,7 +18338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37420",
+        "SIG_CD": "47930",
         "SIG_ENG_NM": "Uljin-gun",
         "SIG_KOR_NM": "울진군"
       },
@@ -18801,7 +18801,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "37430",
+        "SIG_CD": "47940",
         "SIG_ENG_NM": "Ulleung-gun",
         "SIG_KOR_NM": "울릉군"
       },

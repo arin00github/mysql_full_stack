@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "26010",
+        "SIG_CD": "31110",
         "SIG_ENG_NM": "Jung-gu",
         "SIG_KOR_NM": "중구"
       },
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "26020",
+        "SIG_CD": "31140",
         "SIG_ENG_NM": "Nam-gu",
         "SIG_KOR_NM": "남구"
       },
@@ -591,7 +591,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "26030",
+        "SIG_CD": "31170",
         "SIG_ENG_NM": "Dong-gu",
         "SIG_KOR_NM": "동구"
       },
@@ -633,7 +633,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "26040",
+        "SIG_CD": "31200",
         "SIG_ENG_NM": "Buk-gu",
         "SIG_KOR_NM": "북구"
       },
@@ -771,7 +771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "26310",
+        "SIG_CD": "31710",
         "SIG_ENG_NM": "Ulju-gun",
         "SIG_KOR_NM": "울주군"
       },

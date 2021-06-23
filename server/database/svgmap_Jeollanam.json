@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36010",
+        "SIG_CD": "46110",
         "SIG_ENG_NM": "Mokpo-si",
         "SIG_KOR_NM": "목포시"
       },
@@ -162,7 +162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36020",
+        "SIG_CD": "46130",
         "SIG_ENG_NM": "Yeosu-si",
         "SIG_KOR_NM": "여수시"
       },
@@ -585,7 +585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36030",
+        "SIG_CD": "46150",
         "SIG_ENG_NM": "Suncheon-si",
         "SIG_KOR_NM": "순천시"
       },
@@ -1106,7 +1106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36040",
+        "SIG_CD": "46170",
         "SIG_ENG_NM": "Naju-si",
         "SIG_KOR_NM": "나주시"
       },
@@ -3200,7 +3200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36060",
+        "SIG_CD": "46230",
         "SIG_ENG_NM": "Gwangyang-si",
         "SIG_KOR_NM": "광양시"
       },
@@ -3441,7 +3441,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36310",
+        "SIG_CD": "46710",
         "SIG_ENG_NM": "Damyang-gun",
         "SIG_KOR_NM": "담양군"
       },
@@ -4518,7 +4518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36320",
+        "SIG_CD": "46720",
         "SIG_ENG_NM": "Gokseong-gun",
         "SIG_KOR_NM": "곡성군"
       },
@@ -4925,7 +4925,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36330",
+        "SIG_CD": "46730",
         "SIG_ENG_NM": "Gurye-gun",
         "SIG_KOR_NM": "구례군"
       },
@@ -5127,7 +5127,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36350",
+        "SIG_CD": "46770",
         "SIG_ENG_NM": "Goheung-gun",
         "SIG_KOR_NM": "고흥군"
       },
@@ -5487,7 +5487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36360",
+        "SIG_CD": "46780",
         "SIG_ENG_NM": "Boseong-gun",
         "SIG_KOR_NM": "보성군"
       },
@@ -5844,7 +5844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36370",
+        "SIG_CD": "46790",
         "SIG_ENG_NM": "Hwasun-gun",
         "SIG_KOR_NM": "화순군"
       },
@@ -6153,7 +6153,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36380",
+        "SIG_CD": "46800",
         "SIG_ENG_NM": "Jangheung-gun",
         "SIG_KOR_NM": "장흥군"
       },
@@ -6338,7 +6338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36390",
+        "SIG_CD": "46810",
         "SIG_ENG_NM": "Gangjin-gun",
         "SIG_KOR_NM": "강진군"
       },
@@ -6811,7 +6811,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36400",
+        "SIG_CD": "46820",
         "SIG_ENG_NM": "Haenam-gun",
         "SIG_KOR_NM": "해남군"
       },
@@ -7277,7 +7277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36410",
+        "SIG_CD": "46830",
         "SIG_ENG_NM": "Yeongam-gun",
         "SIG_KOR_NM": "영암군"
       },
@@ -8682,7 +8682,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36420",
+        "SIG_CD": "46840",
         "SIG_ENG_NM": "Muan-gun",
         "SIG_KOR_NM": "무안군"
       },
@@ -9043,7 +9043,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36430",
+        "SIG_CD": "46860",
         "SIG_ENG_NM": "Hampyeong-gun",
         "SIG_KOR_NM": "함평군"
       },
@@ -10175,7 +10175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36440",
+        "SIG_CD": "46870",
         "SIG_ENG_NM": "Yeonggwang-gun",
         "SIG_KOR_NM": "영광군"
       },
@@ -10554,7 +10554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36450",
+        "SIG_CD": "46880",
         "SIG_ENG_NM": "Jangseong-gun",
         "SIG_KOR_NM": "장성군"
       },
@@ -12672,7 +12672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36460",
+        "SIG_CD": "46890",
         "SIG_ENG_NM": "Wando-gun",
         "SIG_KOR_NM": "완도군"
       },
@@ -13018,7 +13018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36470",
+        "SIG_CD": "46900",
         "SIG_ENG_NM": "Jindo-gun",
         "SIG_KOR_NM": "진도군"
       },
@@ -13216,7 +13216,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "36480",
+        "SIG_CD": "46910",
         "SIG_ENG_NM": "Sinan-gun",
         "SIG_KOR_NM": "신안군"
       },

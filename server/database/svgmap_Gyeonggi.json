@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31011",
+        "SIG_CD": "41111",
         "SIG_ENG_NM": "Jangan-gu, Suwon-si",
         "SIG_KOR_NM": "수원시 장안구"
       },
@@ -111,7 +111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31012",
+        "SIG_CD": "41113",
         "SIG_ENG_NM": "Gwonseon-gu, Suwon-si",
         "SIG_KOR_NM": "수원시 권선구"
       },
@@ -348,7 +348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31013",
+        "SIG_CD": "41115",
         "SIG_ENG_NM": "Paldal-gu, Suwon-si",
         "SIG_KOR_NM": "수원시 팔달구"
       },
@@ -460,7 +460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31014",
+        "SIG_CD": "41117",
         "SIG_ENG_NM": "Yeongtong-gu, Suwon-si",
         "SIG_KOR_NM": "수원시 영통구"
       },
@@ -748,7 +748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31021",
+        "SIG_CD": "41131",
         "SIG_ENG_NM": "Sujeong-gu, Seongnam-si",
         "SIG_KOR_NM": "성남시 수원구"
       },
@@ -929,7 +929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31022",
+        "SIG_CD": "41133",
         "SIG_ENG_NM": "Jungwon-gu, Seongnam-si",
         "SIG_KOR_NM": "성남시 중원구"
       },
@@ -1113,7 +1113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31023",
+        "SIG_CD": "41135",
         "SIG_ENG_NM": "Bundang-gu, Seongnam-si",
         "SIG_KOR_NM": "성남시 분당구"
       },
@@ -1304,7 +1304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31030",
+        "SIG_CD": "41150",
         "SIG_ENG_NM": "Uijeongbu-si",
         "SIG_KOR_NM": "의정부시"
       },
@@ -1488,7 +1488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31041",
+        "SIG_CD": "41171",
         "SIG_ENG_NM": "Manan-gu, Anyang-si",
         "SIG_KOR_NM": "안양시 만안구"
       },
@@ -1695,7 +1695,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31042",
+        "SIG_CD": "41173",
         "SIG_ENG_NM": "Dongan-gu, Anyang-si",
         "SIG_KOR_NM": "안양시 동안구"
       },
@@ -1842,7 +1842,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31050",
+        "SIG_CD": "41190",
         "SIG_ENG_NM": "Bucheon-si",
         "SIG_KOR_NM": "부천시"
       },
@@ -2135,7 +2135,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31060",
+        "SIG_CD": "41210",
         "SIG_ENG_NM": "Gwangmyeong-si",
         "SIG_KOR_NM": "광명시"
       },
@@ -2540,7 +2540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31070",
+        "SIG_CD": "41220",
         "SIG_ENG_NM": "Pyeongtaek-si",
         "SIG_KOR_NM": "평택시"
       },
@@ -3280,7 +3280,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31080",
+        "SIG_CD": "41250",
         "SIG_ENG_NM": "Dongducheon-si",
         "SIG_KOR_NM": "동두천시"
       },
@@ -3501,7 +3501,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31091",
+        "SIG_CD": "41271",
         "SIG_ENG_NM": "Sangnok-gu, Ansan-si",
         "SIG_KOR_NM": "안산시 상록수"
       },
@@ -3639,7 +3639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31092",
+        "SIG_CD": "41273",
         "SIG_ENG_NM": "Danwon-gu, Ansan-si",
         "SIG_KOR_NM": "안산시 단원구"
       },
@@ -3762,7 +3762,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31101",
+        "SIG_CD": "41281",
         "SIG_ENG_NM": "Deogyang-gu, Goyang-si",
         "SIG_KOR_NM": "고양시 덕양구"
       },
@@ -3920,7 +3920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31103",
+        "SIG_CD": "41285",
         "SIG_ENG_NM": "Ilsandong-gu, Goyang-si",
         "SIG_KOR_NM": "고양시 일산동구"
       },
@@ -3993,7 +3993,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31104",
+        "SIG_CD": "41287",
         "SIG_ENG_NM": "Ilsanseo-gu, Goyang-si",
         "SIG_KOR_NM": "고양시 일산서구"
       },
@@ -4117,7 +4117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31110",
+        "SIG_CD": "41290",
         "SIG_ENG_NM": "Gwacheon-si",
         "SIG_KOR_NM": "과천시"
       },
@@ -4276,7 +4276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31120",
+        "SIG_CD": "41310",
         "SIG_ENG_NM": "Guri-si",
         "SIG_KOR_NM": "구리시"
       },
@@ -4364,7 +4364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31130",
+        "SIG_CD": "41360",
         "SIG_ENG_NM": "Namyangju-si",
         "SIG_KOR_NM": "남양주시"
       },
@@ -4685,7 +4685,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31140",
+        "SIG_CD": "41370",
         "SIG_ENG_NM": "Osan-si",
         "SIG_KOR_NM": "오산시"
       },
@@ -4884,7 +4884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31150",
+        "SIG_CD": "41390",
         "SIG_ENG_NM": "Siheung-si",
         "SIG_KOR_NM": "시흥시"
       },
@@ -5185,7 +5185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31160",
+        "SIG_CD": "41410",
         "SIG_ENG_NM": "Gunpo-si",
         "SIG_KOR_NM": "군포시"
       },
@@ -5338,7 +5338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31170",
+        "SIG_CD": "41430",
         "SIG_ENG_NM": "Uiwang-si",
         "SIG_KOR_NM": "의왕시"
       },
@@ -5547,7 +5547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31180",
+        "SIG_CD": "41450",
         "SIG_ENG_NM": "Hanam-si",
         "SIG_KOR_NM": "하남시"
       },
@@ -5731,7 +5731,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31191",
+        "SIG_CD": "41461",
         "SIG_ENG_NM": "Cheoin-gu, Yongin-si",
         "SIG_KOR_NM": "용인시 처인구"
       },
@@ -6259,7 +6259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31192",
+        "SIG_CD": "41463",
         "SIG_ENG_NM": "Giheung-gu, Yongin-si",
         "SIG_KOR_NM": "용인시 기흥구"
       },
@@ -6872,7 +6872,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31193",
+        "SIG_CD": "41465",
         "SIG_ENG_NM": "Suji-gu, Yongin-si",
         "SIG_KOR_NM": "용인시 수지구"
       },
@@ -7099,7 +7099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31200",
+        "SIG_CD": "41480",
         "SIG_ENG_NM": "Paju-si",
         "SIG_KOR_NM": "파주시"
       },
@@ -7413,7 +7413,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31210",
+        "SIG_CD": "41500",
         "SIG_ENG_NM": "Icheon-si",
         "SIG_KOR_NM": "이천시"
       },
@@ -8123,7 +8123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31220",
+        "SIG_CD": "41550",
         "SIG_ENG_NM": "Anseong-si",
         "SIG_KOR_NM": "안성시"
       },
@@ -8657,7 +8657,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31230",
+        "SIG_CD": "41570",
         "SIG_ENG_NM": "Gimpo-si",
         "SIG_KOR_NM": "김포시"
       },
@@ -9003,7 +9003,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31240",
+        "SIG_CD": "41590",
         "SIG_ENG_NM": "Hwaseong-si",
         "SIG_KOR_NM": "화성시"
       },
@@ -10325,7 +10325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31250",
+        "SIG_CD": "41610",
         "SIG_ENG_NM": "Gwangju-si",
         "SIG_KOR_NM": "광주시"
       },
@@ -10919,7 +10919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31260",
+        "SIG_CD": "41630",
         "SIG_ENG_NM": "Yangju-si",
         "SIG_KOR_NM": "양주시"
       },
@@ -11270,7 +11270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31270",
+        "SIG_CD": "41650",
         "SIG_ENG_NM": "Pocheon-si",
         "SIG_KOR_NM": "포천시"
       },
@@ -12500,7 +12500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31280",
+        "SIG_CD": "41670",
         "SIG_ENG_NM": "Yeoju-si",
         "SIG_KOR_NM": "여주시"
       },
@@ -13196,7 +13196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31350",
+        "SIG_CD": "41800",
         "SIG_ENG_NM": "Yeoncheon-gun",
         "SIG_KOR_NM": "연천군"
       },
@@ -13805,7 +13805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31370",
+        "SIG_CD": "41820",
         "SIG_ENG_NM": "Gapyeong-gun",
         "SIG_KOR_NM": "가평군"
       },
@@ -14688,7 +14688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "31380",
+        "SIG_CD": "41830",
         "SIG_ENG_NM": "Yangpyeong-gun",
         "SIG_KOR_NM": "양평군"
       },

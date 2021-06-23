@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35011",
+        "SIG_CD": "45111",
         "SIG_ENG_NM": "Wansan-gu, Jeonju-si",
         "SIG_KOR_NM": "전주시 완산구"
       },
@@ -245,7 +245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35012",
+        "SIG_CD": "45113",
         "SIG_ENG_NM": "Deokjin-gu, Jeonju-si",
         "SIG_KOR_NM": "전주시 덕진구"
       },
@@ -445,7 +445,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35020",
+        "SIG_CD": "45130",
         "SIG_ENG_NM": "Gunsan-si",
         "SIG_KOR_NM": "군산시"
       },
@@ -700,7 +700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35030",
+        "SIG_CD": "45140",
         "SIG_ENG_NM": "Iksan-si",
         "SIG_KOR_NM": "익산시"
       },
@@ -1358,7 +1358,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35040",
+        "SIG_CD": "45180",
         "SIG_ENG_NM": "Jeongeup-si",
         "SIG_KOR_NM": "정읍시"
       },
@@ -2834,7 +2834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35050",
+        "SIG_CD": "45190",
         "SIG_ENG_NM": "Namwon-si",
         "SIG_KOR_NM": "남원시"
       },
@@ -3400,7 +3400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35060",
+        "SIG_CD": "45210",
         "SIG_ENG_NM": "Gimje-si",
         "SIG_KOR_NM": "김제시"
       },
@@ -3824,7 +3824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35310",
+        "SIG_CD": "45710",
         "SIG_ENG_NM": "Wanju-gun",
         "SIG_KOR_NM": "완주군"
       },
@@ -4522,7 +4522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35320",
+        "SIG_CD": "45720",
         "SIG_ENG_NM": "Jinan-gun",
         "SIG_KOR_NM": "진안군"
       },
@@ -5482,7 +5482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35330",
+        "SIG_CD": "45730",
         "SIG_ENG_NM": "Muju-gun",
         "SIG_KOR_NM": "무주군"
       },
@@ -6142,7 +6142,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35340",
+        "SIG_CD": "45740",
         "SIG_ENG_NM": "Jangsu-gun",
         "SIG_KOR_NM": "장수군"
       },
@@ -7315,7 +7315,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35350",
+        "SIG_CD": "45750",
         "SIG_ENG_NM": "Imsil-gun",
         "SIG_KOR_NM": "임실군"
       },
@@ -8138,7 +8138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35360",
+        "SIG_CD": "45770",
         "SIG_ENG_NM": "Sunchang-gun",
         "SIG_KOR_NM": "순창군"
       },
@@ -9389,7 +9389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35370",
+        "SIG_CD": "45790",
         "SIG_ENG_NM": "Gochang-gun",
         "SIG_KOR_NM": "고창군"
       },
@@ -10243,7 +10243,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "35380",
+        "SIG_CD": "45800",
         "SIG_ENG_NM": "Buan-gun",
         "SIG_KOR_NM": "부안군"
       },

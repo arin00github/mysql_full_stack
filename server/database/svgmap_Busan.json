@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21010",
+        "SIG_CD": "26110",
         "SIG_ENG_NM": "Jung-gu",
         "SIG_KOR_NM": "중구"
       },
@@ -59,7 +59,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21020",
+        "SIG_CD": "26140",
         "SIG_ENG_NM": "Seo-gu",
         "SIG_KOR_NM": "서구"
       },
@@ -185,7 +185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21030",
+        "SIG_CD": "26170",
         "SIG_ENG_NM": "Dong-gu",
         "SIG_KOR_NM": "동구"
       },
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21040",
+        "SIG_CD": "26200",
         "SIG_ENG_NM": "Yeongdo-gu",
         "SIG_KOR_NM": "영도구"
       },
@@ -273,7 +273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21050",
+        "SIG_CD": "26230",
         "SIG_ENG_NM": "Busanjin-gu",
         "SIG_KOR_NM": "부산진구"
       },
@@ -378,7 +378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21060",
+        "SIG_CD": "26260",
         "SIG_ENG_NM": "Dongnae-gu",
         "SIG_KOR_NM": "동래구"
       },
@@ -474,7 +474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21070",
+        "SIG_CD": "26290",
         "SIG_ENG_NM": "Nam-gu",
         "SIG_KOR_NM": "남구"
       },
@@ -519,7 +519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21080",
+        "SIG_CD": "26320",
         "SIG_ENG_NM": "Buk-gu",
         "SIG_KOR_NM": "북구"
       },
@@ -601,7 +601,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21090",
+        "SIG_CD": "26350",
         "SIG_ENG_NM": "Haeundae-gu",
         "SIG_KOR_NM": "해운대구"
       },
@@ -688,7 +688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21100",
+        "SIG_CD": "26380",
         "SIG_ENG_NM": "Saha-gu",
         "SIG_KOR_NM": "사하구"
       },
@@ -791,7 +791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21110",
+        "SIG_CD": "26410",
         "SIG_ENG_NM": "Geumjeong-gu",
         "SIG_KOR_NM": "금정구"
       },
@@ -944,7 +944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21120",
+        "SIG_CD": "26440",
         "SIG_ENG_NM": "Gangseo-gu",
         "SIG_KOR_NM": "강서구"
       },
@@ -1336,7 +1336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21130",
+        "SIG_CD": "26470",
         "SIG_ENG_NM": "Yeonje-gu",
         "SIG_KOR_NM": "연제구"
       },
@@ -1408,7 +1408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21140",
+        "SIG_CD": "26500",
         "SIG_ENG_NM": "Suyeong-gu",
         "SIG_KOR_NM": "수영구"
       },
@@ -1450,7 +1450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21150",
+        "SIG_CD": "26530",
         "SIG_ENG_NM": "Sasang-gu",
         "SIG_KOR_NM": "사상구"
       },
@@ -1548,7 +1548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "21310",
+        "SIG_CD": "26710",
         "SIG_ENG_NM": "Gijang-gun",
         "SIG_KOR_NM": "기장군"
       },

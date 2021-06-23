@@ -13,8 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "29010",
-        "CATEGORY": "Sejong-si",
+        "SIG_CD": "36110",
         "SIG_ENG_NM": "Sejong-si",
         "SIG_KOR_NM": "세종시"
       },

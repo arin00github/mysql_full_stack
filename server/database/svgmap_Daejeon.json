@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "25010",
+        "SIG_CD": "30110",
         "SIG_ENG_NM": "Dong-gu",
         "SIG_KOR_NM": "동구"
       },
@@ -211,7 +211,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "25020",
+        "SIG_CD": "30140",
         "SIG_ENG_NM": "Jung-gu",
         "SIG_KOR_NM": "중구"
       },
@@ -365,7 +365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "25030",
+        "SIG_CD": "30170",
         "SIG_ENG_NM": "Seo-gu",
         "SIG_KOR_NM": "서구"
       },
@@ -515,7 +515,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "25040",
+        "SIG_CD": "30200",
         "SIG_ENG_NM": "Yuseong-gu",
         "SIG_KOR_NM": "유성구"
       },
@@ -972,7 +972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "25050",
+        "SIG_CD": "30230",
         "CATEGORY": "Daejeon-si",
         "SIG_ENG_NM": "Daedeok-gu",
         "SIG_KOR_NM": "대덕구"

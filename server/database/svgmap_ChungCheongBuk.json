@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33041",
+        "SIG_CD": "43111",
         "SIG_ENG_NM": "Sangdang-gu, Cheongju-si",
         "SIG_KOR_NM": "청주시 상당구"
       },
@@ -398,7 +398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33042",
+        "SIG_CD": "43112",
         "SIG_ENG_NM": "Seowon-gu, Cheongju-si",
         "SIG_KOR_NM": "청주시 서원구"
       },
@@ -713,7 +713,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33043",
+        "SIG_CD": "43113",
         "SIG_ENG_NM": "Heungdeok-gu, Cheongju-si",
         "SIG_KOR_NM": "청주시 흥덕구"
       },
@@ -988,7 +988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33044",
+        "SIG_CD": "43114",
         "SIG_ENG_NM": "Cheongwon-gu, Cheongju-si",
         "SIG_KOR_NM": "청주시 청원구"
       },
@@ -1200,7 +1200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33020",
+        "SIG_CD": "43130",
         "SIG_ENG_NM": "Chungju-si",
         "SIG_KOR_NM": "충주시"
       },
@@ -1952,7 +1952,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33030",
+        "SIG_CD": "43150",
         "SIG_ENG_NM": "Jecheon-si",
         "SIG_KOR_NM": "제천시"
       },
@@ -3179,7 +3179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33320",
+        "SIG_CD": "43720",
         "SIG_ENG_NM": "Boeun-gun",
         "SIG_KOR_NM": "보은군"
       },
@@ -3568,7 +3568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33330",
+        "SIG_CD": "43730",
         "SIG_ENG_NM": "Okcheon-gun",
         "SIG_KOR_NM": "옥천군"
       },
@@ -3977,7 +3977,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33340",
+        "SIG_CD": "43740",
         "SIG_ENG_NM": "Yeongdong-gun",
         "SIG_KOR_NM": "영동군"
       },
@@ -4650,7 +4650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33390",
+        "SIG_CD": "43745",
         "SIG_ENG_NM": "Jeungpyeong-gun",
         "SIG_KOR_NM": "증평군"
       },
@@ -5113,7 +5113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33350",
+        "SIG_CD": "43750",
         "SIG_ENG_NM": "Jincheon-gun",
         "SIG_KOR_NM": "진천군"
       },
@@ -5519,7 +5519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33360",
+        "SIG_CD": "43760",
         "SIG_ENG_NM": "Goesan-gun",
         "SIG_KOR_NM": "괴산군"
       },
@@ -6601,7 +6601,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33370",
+        "SIG_CD": "43770",
         "SIG_ENG_NM": "Eumseong-gun",
         "SIG_KOR_NM": "음성군"
       },
@@ -7146,7 +7146,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "33380",
+        "SIG_CD": "43800",
         "SIG_ENG_NM": "Danyang-gun",
         "SIG_KOR_NM": "단양군"
       },

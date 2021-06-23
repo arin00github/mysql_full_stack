@@ -13,7 +13,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "39010",
+        "SIG_CD": "50110",
         "SIG_ENG_NM": "Jeju-si",
         "SIG_KOR_NM": "제주시"
       },
@@ -309,7 +309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SIG_CD": "39020",
+        "SIG_CD": "50130",
         "SIG_ENG_NM": "Seogwipo-si",
         "SIG_KOR_NM": "서귀포시"
       },
