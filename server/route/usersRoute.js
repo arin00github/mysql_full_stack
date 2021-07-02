@@ -29,10 +29,12 @@ router.post('/profile', async(req, res) => {
 router.get('/read', async(req, res) => {
 
     try{
+
         const results = await users.findAll();
-        console.log(results);
+        //console.log(results);
         if(!results) throw Error("No Data");
         res.status(200).json(results)
+        console.log("read Data List")
     }catch(err){
         console.log('error',err)
         res.status(400).json()
@@ -47,7 +49,7 @@ router.get('/read', async(req, res) => {
 router.post('/add', (req, res) => {
     //console.log("req.body",Object.keys(req.body));
     const getData = req.body;
-    console.log("req.body", req.body);
+    //console.log("req.body", req.body);
     users.create({
         name: getData.name,
         email: getData.email,
