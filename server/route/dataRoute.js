@@ -1,43 +1,40 @@
 const express = require('express');
 
-const { users, Sequelize:{Op} } = require('../../models')
 
 const router = express.Router();
 
-router.get('/read', async(req, res) => {
+const {poolPromise, mssql, dbConfig} = require('../dbUtil');
 
-    try{
-        const results = await users.findAll();
-        if(!results) throw Error("No Data");
-        res.status(200).json(results)
-    }catch(err){
-        console.log('error',err)
-        res.status(400).json()
-    }
-    
-})
+
 
 /**
- * 데이터 생성
- * /api/data/add
+ * path : 'api/data/main'
+ * method : get
  */
-router.post('/add', (req, res) => {
-    console.log("req.body",req.body);
-    users.create({
-        user_id: req.body.user_id,
-        user_name: req.body.user_name
-    }).then((result)=> {
-        console.log('Data create successfully!!')
-        return res.status(200).json({message: '데이터가 새로 저장되었습니다.'})
-    }).catch((err)=> {
-        console.log(err)
-        return res.status(400).json({message: '데이터 생성에 실패했습니다'})
+
+router.post('/schema', async(req, res)=> {
+    //console.log(req.body);
+
+    const order = `SELECT TOP(20) * FROM information_schema.tables WHERE table_schema LIKE '%${req.body.name}%'`
+
+    const pool = await poolPromise;
+    await pool.request().query(order, (err, result)=> {
+        res.send(result);
     })
 })
 
 
+router.post('/table', async(req, res)=> {
+    console.log(req.body);
+
+    const order = `SELECT TOP(20) * FROM ${req.body.tableName}`
+
+    const pool = await poolPromise;
+    await pool.request().query(order, (err, result)=> {
+        if(err) console.log(err)
+        res.send(result);
+    })
+})
+
 
 module.exports = router;
-
-
-

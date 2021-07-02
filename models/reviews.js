@@ -3,7 +3,7 @@ const {
   Model
 } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
-  class users extends Model {
+  class reviews extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -11,36 +11,31 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      this.hasMany(models.reviews, {
+      this.belongsTo(models.users, { 
         foreignKey: 'users_id',
-        sourceKey: 'id',
+        as: 'users_name',
+        targetKey:'id',
         onUpdate: 'cascade',
-        onDelete:'set null'
+        onDelete: 'set null'
       })
 
-      this.belongsToMany(models.bootcamp_lists, {
-        through: 'users_bootcamp',
+      this.belongsTo(models.bootcamp_lists, {
+        foreignKey: 'bootcamp_id',
+        as: 'camp_name',
         targetKey: 'id',
-        foreignKey: 'users_id',
         onUpdate: 'cascade',
-        onDelete: 'cascade'
+        onDelete: 'set null'
       })
-    
+
     }
   };
-  users.init({
-    name: DataTypes.STRING,
-    active: DataTypes.BOOLEAN,
-    email: DataTypes.STRING,
-    role: {
-      type: DataTypes.ENUM,
-      values: ['manager', 'user', 'partner']
-    }
+  reviews.init({
+    content: DataTypes.STRING
   }, {
     sequelize,
-    modelName: 'users',
+    modelName: 'reviews',
     timestamps: true,
     charset: 'utf8'
   });
-  return users;
+  return reviews;
 };
