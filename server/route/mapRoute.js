@@ -13,6 +13,17 @@ const router = express.Router();
  * /api/review/add
  */
 
+router.get('/nationwide', async (req, res) => {
+    
+    try {
+        const data = await sequelize.query("SELECT geojson FROM svgmap where name = 'korea'", { type: QueryTypes.SELECT })
+        res.status(200).json(data);
+    }catch (err) {
+        console.log('error', err)
+        res.status(400).json()
+    }
+})
+
 
 router.get('/download', async (req, res) => {
 
